@@ -19,9 +19,5 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarcellReynoso&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarcellReynoso&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarcellReynoso&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarcellReynoso&theme=github&utcOffset=8)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcellReynoso&theme=github)
 
