@@ -10,8 +10,8 @@
 <br>
 
 - Me gusta desarrollar sistemas web en mis ratos libres
-- Conocimiento en React js
-- Aprendiendo a utilizar Next js
+- Conocimiento en bases de datos SQL Server
+- Reportabilidad en PowerBi
 - Pronto aprendiendo mucho más 🐱‍👤
 
 <br><br>
